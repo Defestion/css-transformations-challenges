@@ -1,0 +1,15 @@
+.element {
+ background-color: #474846;
+ transition: transform 1s linear;
+}
+.element:hover {
+  transform: translateX(100%)       
+}
+p {
+	color: #fff;
+	font-size: 2em;
+	font-family: Comic Sans MS;
+	float: right;
+	margin-right: 40%;
+	margin-top: 5%;
+}
